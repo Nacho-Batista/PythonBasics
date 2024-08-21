@@ -27,7 +27,7 @@ def response_generator():
     response = random.choice(
         [
             "Hola Millonario!",
-            "Buen día! Porque hoy juega River",
+            "Buen día! Porque hoy juega River por la Libertadores",
             "¿En qué puedo ayudarte crack?",
         ]
     )
